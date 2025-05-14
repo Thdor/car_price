@@ -40,17 +40,6 @@ no2/
 - **Data Processing**: StandardScaler, OneHotEncoder
 - **Visualization**: Matplotlib, Seaborn
 
-## Installation & Usage
-1. Clone the repository
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-3. Run the web application:
-```bash
-streamlit run app.py
-```
-
 ## Model Features
 ### Numeric Features
 - Car length
